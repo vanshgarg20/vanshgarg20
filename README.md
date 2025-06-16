@@ -56,11 +56,11 @@
 ## 🌐 **Connect with Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YourLinkedIn/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/YourLeetCode/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/YourHackerRank/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://twitter.com/YourTwitter/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/YourLinkedIn/](https://www.linkedin.com/in/vansh-garg-02a321279/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[mailto:youremail@example.com](https://mail.google.com/mail/u/4/#inbox)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://leetcode.com/YourLeetCode/](https://leetcode.com/u/vanshgarg_20/)"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="[https://www.hackerrank.com/YourHackerRank/](https://www.hackerrank.com/dashboard)"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="[https://twitter.com/YourTwitter/](https://x.com/Vanshgarg__20)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
